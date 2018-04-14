@@ -1,1 +1,5 @@
-var meals = new Object({ breakfast: 'oatmeal' })
+var playlist = new Object({ nin: 'wish' })
+
+function updatePlaylist(playlist, artist, title) {
+  
+}
